@@ -69,7 +69,7 @@ class InstagramBot:
     
 
 if __name__ == '__main__':
-    ig_bot = InstagramBot('garnishedbygurman','chris3paul')
+    ig_bot = InstagramBot('garnishedbygurman','xxxxxxxx')
     ig_bot.nav_hashtag('cooking')
     ig_bot.like_pic()
 
